@@ -54,6 +54,7 @@ class App extends Component {
                 <button onClick={this.division}>/</button>
                 <button onClick={this.multiplication}>x</button>
             </div>
+            
         );
     }
 }
